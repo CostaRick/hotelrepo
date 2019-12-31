@@ -1,0 +1,2 @@
+# hotelrepo
+GitHub Pages
