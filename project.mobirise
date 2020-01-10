@@ -52,7 +52,7 @@
     "lazyLoad": true,
     "lazyType": "placeholder",
     "favicon": false,
-    "cssOptimize": false,
+    "cssOptimize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
