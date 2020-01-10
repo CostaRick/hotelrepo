@@ -22,7 +22,7 @@
         "display7Size": 0.9,
         "display4Font": "Roboto",
         "display4Size": 0.75,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
