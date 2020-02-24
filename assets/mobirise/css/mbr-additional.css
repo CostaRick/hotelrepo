@@ -2232,7 +2232,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rzMgHGam4n .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.1rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rzMgHGam4n .navbar.collapsed .navbar-collapse {
@@ -2761,7 +2761,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rzMgHGam4n .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.1rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rzMgHGam4n .navbar.collapsed .navbar-collapse {
